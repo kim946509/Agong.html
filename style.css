@@ -156,7 +156,7 @@ body {
 }
 
 body {
-    background-image: url("image/head.jpg");
+    background-image: url("head.jpg");
 }
 
 .head {
@@ -277,7 +277,7 @@ article>ul {
 }
 
 #Agong {
-    background-image: url("image/Agong.jpg");
+    background-image: url("Agong.jpg");
     background-size: 100%;
     background-size:cover;
 }
